@@ -28,8 +28,8 @@ Check out the video demo of the model below:
 
 ## Model and Resources
 
-- **BART**: [Download BART<sub>LARGE</sub> model](https://huggingface.co/google-bert/bert-base-uncased)
-- **BERT**: [Download BERT<sub>BASE</sub> Uncased model](https://huggingface.co/facebook/bart-large)
+- **BART**: [Download BART<sub>LARGE</sub> model](https://huggingface.co/facebook/bart-large)
+- **BERT**: [Download BERT<sub>BASE</sub> Uncased model](https://huggingface.co/google-bert/bert-base-uncased)
 - **Dataset**: [Gold Aspect-Based Dataset for Borobudur and Prambanan](https://github.com/dian9395/dataset-gold-aspectbased-borobudur-prambanan)
 
 <br> <br>
