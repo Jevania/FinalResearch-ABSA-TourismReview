@@ -4,7 +4,7 @@
 
 This repository contains the code and resources for  final research project that combines BART and BERT models using the ensemble method. The main goal is to improve Aspect-based Sentiment Analysis (ABSA) model performance for the [Indonesia’s Tourism Destinations dataset](https://github.com/dian9395/dataset-gold-aspectbased-borobudur-prambanan) (Study case: Borobudur and Prambanan temples). 
 
-## Proposed Model Description
+## Proposed Model Architecture
 
 ![Proposed Model Architecture](img/proposed-model-arc.png)
 
