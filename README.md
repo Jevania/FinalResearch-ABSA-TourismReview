@@ -21,11 +21,11 @@ This repository contains the code and resources for  final research project that
     - For each model (BART and BERT), the final layer (usually known as **head**) is modified by adding a **linear layer**.
     - The ensemble model predicts by averaging the class probabilities from both models.
 
-### Model Interface
+## Model Interface
 Take a peek at what the Streamlit app interface looks like:
 ![web-overview](img/web-overview.png)
 
-### Demo
+## Demo
 Check out the video demo of the model below:
 
 [![Watch the video](https://img.youtube.com/vi/uVUZ8us22SM/0.jpg)](https://youtu.be/uVUZ8us22SM)
