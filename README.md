@@ -28,7 +28,7 @@ Take a peek at what the Streamlit app interface looks like:
 ### Demo
 Check out the video demo of the model below:
 
-[![Watch the video](https://img.youtube.com/vi/uVUZ8us22SM/0.jpg)](https://youtu.be/uVUZ8us22SM)
+[![Watch the video](https://img.youtube.com/vi/uVUZ8us22SM/0.jpg)](https://youtu.be/uVUZ8us22SM){:target="_blank"}
 
 ## Model and Resources
 
