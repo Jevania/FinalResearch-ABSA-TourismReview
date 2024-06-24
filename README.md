@@ -18,7 +18,7 @@ This repository contains the code and resources for  final research project that
     - **BART**: Fine-tuned using the the dataset
     - **BERT**: Similarly, fine-tuned on the dataset
 2. **Layer Modification**:
-    - For each model (BART and BERT), the final layer (usually known as **head**) is modified by adding a **linear layer**.
+    - For each fine-tuned model (BART and BERT), the final layer (usually known as **head**) is modified by adding a **linear layer**.
     - The ensemble model predicts by averaging the class probabilities from both models.
 
 ## Model Interface
