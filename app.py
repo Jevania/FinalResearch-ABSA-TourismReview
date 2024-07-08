@@ -7,7 +7,7 @@ from collections import Counter
 import random
 import streamlit as st
 
-st.set_page_config(page_title="ABSA Tourism Review", page_icon="🏝️",
+st.set_page_config(page_title="Touralysis", page_icon="🏝️",
                    layout='centered', initial_sidebar_state="expanded")
 
 # Load your ensemble model and labels
@@ -281,7 +281,7 @@ def main():
 
     html_temp = """
     <div>
-    <h1 style="color:#8BE9FD;text-align:left;"> 🏝️ ABSA Tourism Review</h1>
+    <h1 style="color:#8BE9FD;text-align:left;">ABSA Tourism Review</h1>
     </div>
     """
     
